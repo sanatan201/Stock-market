@@ -1,1 +1,1 @@
-const res = await fetch("https://newsapi.org/v2/top-headlines?category=business&country=in&apiKey=208b08e80c984d2cb46e912438d18b84");
+const res = await fetch("https://finnhub.io/api/v1/quote?symbol=NSE:RELIANCE&token=cvsbv11r01qvc2n02b10cvsbv11r01qvc2n02b1g");
